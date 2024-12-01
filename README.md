@@ -16,7 +16,7 @@ UpStack Data empowers marketers to enhance revenue and reduce Customer Acquisiti
 
 - **Multichannel Attribution Reporting**: Compare channel acquisition to identify which channels drive conversions, utilizing first-click, last-click, and any-click attribution models across various time windows. :contentReference[oaicite:4]{index=4}
 
-## Pricing Plans
+## [Pricing Plans](https://www.upstackdata.com/pricing)
 
 We offer flexible pricing to accommodate businesses of all sizes:
 
